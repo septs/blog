@@ -1,0 +1,63 @@
+baseURL = "https://septs.blog"
+title = "Sept's"
+theme = "hugo-coder"
+languageCode = "en"
+defaultContentLanguage = "en"
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+enableEmoji = true
+
+[params]
+author = "Sept's"
+description = "Sept's personal blog"
+info = ["Senior Frontend Developer"]
+avatarURL = "images/avatar.jpg"
+gravatar = "github@septs.pw"
+dateFormat = "2006-01-02"
+hideFooter = false
+hideCredits = false
+hideCopyright = false
+since = 2017
+commit = "https://github.com/septs/blog/tree/"
+colorScheme = "dark"
+hideColorSchemeToggle = false
+maxSeeAlsoItems = 5
+enableTwemoji = true
+customCSS = []
+customSCSS = []
+customJS = []
+
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+[[params.social]]
+name = "GitHub"
+icon = "fa fa-github"
+weight = 1
+url = "https://github.com/septs"
+
+[[params.social]]
+name = "RSS"
+icon = "fa fa-rss"
+weight = 6
+url = "https://septs.blog/index.xml"
+rel = "alternate"
+type = "application/rss+xml"
+
+[languages.en]
+languageName = ":uk:"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 1
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 2
+url = "posts/"
