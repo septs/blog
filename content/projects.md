@@ -20,3 +20,8 @@ slug = "projects"
 
 - <https://github.com/M2MGateway/go-smpp>\
   A complete implementation of SMPP v5 protocol, written in golang.
+
+## Library
+
+- IPIP.NET, QQWry IP database query library\
+  <https://github.com/NiceLabs/geoip-seeker>
