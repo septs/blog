@@ -2,10 +2,6 @@
 date = 2021-07-08T19:15:56+08:00
 title = "Archlinux ARM Prebuilt image"
 slug = "prebuilt-alarm"
-authors = ["septs"]
-tags = ["linux"]
-categories = ["linux"]
-series = ["linux"]
 +++
 
 ## Archlinux ARM Prebuilt image

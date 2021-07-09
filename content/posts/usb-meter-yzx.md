@@ -2,10 +2,6 @@
 date = 2021-07-08T18:55:10+08:00
 title = "YZXStudio USB Meter Protocol design"
 slug = "yzx-usb-meter"
-authors = ["septs"]
-tags = ["usb-meter"]
-categories = ["usb-meter"]
-series = ["meter"]
 +++
 
 ## YZXStudio USB Meter

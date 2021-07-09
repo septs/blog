@@ -1,12 +1,6 @@
 +++
 date = 2021-07-08T18:36:15+08:00
 title = "Rack Console"
-description = "Rack Console"
-slug = "rack-console"
-authors = ["septs"]
-tags = ["rack"]
-categories = ["rack"]
-series = ["rack"]
 +++
 
 ## Rack Console

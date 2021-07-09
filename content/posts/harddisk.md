@@ -1,10 +1,6 @@
 +++
 date = 2021-07-08T18:47:50+08:00
 title = "Harddisk"
-description = "Harddisk"
-slug = "harddisk"
-authors = ["septs"]
-tags = ["disk"]
 +++
 
 ## Harddisk Type
