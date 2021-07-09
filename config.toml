@@ -1,5 +1,5 @@
 baseURL = "https://septs.blog"
-title = "Sept's"
+title = "Sept's Personal blog"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -10,24 +10,17 @@ pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
 
 [params]
-author = "Sept's"
+author = "septs"
 description = "Sept's personal blog"
 info = ["Senior Frontend Developer"]
 avatarURL = "images/avatar.jpg"
 gravatar = "github@septs.pw"
 dateFormat = "2006-01-02"
-hideFooter = false
-hideCredits = false
-hideCopyright = false
 since = 2017
 commit = "https://github.com/septs/blog/tree/"
 colorScheme = "dark"
-hideColorSchemeToggle = false
 maxSeeAlsoItems = 5
 enableTwemoji = true
-customCSS = []
-customSCSS = []
-customJS = []
 
 [taxonomies]
 category = "categories"
