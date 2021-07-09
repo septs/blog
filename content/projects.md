@@ -23,5 +23,5 @@ slug = "projects"
 
 ## Library
 
-- IPIP.NET, QQWry IP database query library\
-  <https://github.com/NiceLabs/geoip-seeker>
+- <https://github.com/NiceLabs/geoip-seeker>\
+   IPIP.NET, QQWry IP database query library
