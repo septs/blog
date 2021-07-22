@@ -1,0 +1,14 @@
+<script>
+  (function () {
+    var frame = document.createElement("iframe");
+    Object.assign(frame, {
+      src: "{{ index .Params 0 }}",
+      width: "100%",
+      height: document.body.scrollHeight + "px",
+      frameBorder: 0,
+      scrolling: "no",
+    });
+    document.currentScript.parentElement.appendChild(frame);
+    document.currentScript.remove();
+  })();
+</script>

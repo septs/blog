@@ -18,9 +18,10 @@ gravatar = "github@septs.pw"
 dateFormat = "2006-01-02"
 since = 2017
 commit = "https://github.com/septs/blog/tree/"
-colorScheme = "dark"
+colorScheme = "auto"
 maxSeeAlsoItems = 5
 enableTwemoji = true
+customCSS = ["customize.css"]
 
 [taxonomies]
 category = "categories"
@@ -51,6 +52,11 @@ weight = 1
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Links"
 weight = 2
+url = "links/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 3
 url = "posts/"
