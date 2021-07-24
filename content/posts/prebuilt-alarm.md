@@ -12,9 +12,11 @@ Download page: <https://aka.pw/archlinuxarm>
 
 ## Support Devices
 
-- Nano Pi { NEO, M1 }
-- Orange Pi { Zero, One, Lite, R1 }
-- Raspberry Pi { 1, 2, 3, 4 }
+|     Provider | Models              |
+| -----------: | ------------------- |
+|      Nano Pi | NEO, M1             |
+|    Orange Pi | Zero, One, Lite, R1 |
+| Raspberry Pi | 1, 2, 3, 4          |
 
 ## Repository
 

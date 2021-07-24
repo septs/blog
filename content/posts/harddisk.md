@@ -16,7 +16,8 @@ title = "Harddisk"
 
 ## 3rd-party Reference
 
-- [零售 3.5" SATA HDD 汇总列表 (2018-10-24 更新)](https://www.chiphell.com/thread-1676546-1-1.html)
+- 零售 3.5" SATA HDD 汇总列表 (2018-10-24 更新)\
+  <https://www.chiphell.com/thread-1676546-1-1.html>
 
 ## Tools
 
